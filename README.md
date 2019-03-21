@@ -4,4 +4,4 @@
 # Project.html : link to the webpage of source code
 # project.ipynb : All of code for the Project
 # mmodel.pth : Saved model with pytoch. Contained the best result model we created
-
+# The notebook outside Src is designed for test our model, and notebook inside src folder contained all of source code
